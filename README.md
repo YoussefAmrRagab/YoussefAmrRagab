@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **youssefamr2244@gmail.com**
 
-- 📄 Know about my experiences [#](#)
+- 📄 Know about my experiences [Resume](#)
 
 <h3 align="left"> 🔗 Connect with me:</h3>
 <p align="left">
