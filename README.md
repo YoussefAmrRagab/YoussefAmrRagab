@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Youssef Amr Ragab</h1>
 
-<h3> 🚀 About Me </h3>
+<img align="right" src="giphy.gif" alt="coding" width="480" height="270"/>
 
-<img align="right" src="giphy.gif" alt="coding" width="460" height="250"/>
+<h3> 🚀 About Me </h3>
 
 - 🌱 I’m interested in mobile development
 
