@@ -5,7 +5,7 @@
 
 - 🌱 I’m interested in mobile development
 
-- 🧠 I’m currently learning **Android Development (Java & Kotlin) & Cross Platform (Flutter)**
+- 🧠 I’m currently learning **Android Development & Cross Platform (Flutter)**
 
 - 👨‍💻 All of my projects are available at [#](#)
 
